@@ -1,13 +1,13 @@
 {
-  "manifestRevision": 15,
-  "updatedAt": "2026-11-14 17:21",
+  "manifestRevision": 16,
+  "updatedAt": "2026-11-14 17:31",
   "release": {
-    "versionCode": 5,
-    "versionName": "1.5",
+    "versionCode": 6,
+    "versionName": "1.6",
     "apkDownloadUrl": "https:\/\/github.com\/shouvikb12\/Patra_keyboard\/releases\/download\/V1.3\/Patra-keyboard.apk",
     "releaseNotes": "• Accurate Bilingual Translator (EN ⇄ বাং) with SOV grammar\n• English-pronounced Bangla in Avro (sms → এসএমএস, facebook → ফেসবুক)\n• Live OTA Dictionary, Translator & Artisan Theme Updates\n• Direct In-App APK Downloader & Updater",
     "isMandatory": false,
-    "publishedAt": "2026-11-14 17:21",
+    "publishedAt": "2026-11-14 17:31",
     "fileSizeMb": 14.800000190734863
   },
   "dictionary": {
