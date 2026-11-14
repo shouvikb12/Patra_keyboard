@@ -1,0 +1,53 @@
+{
+  "manifestRevision": 13,
+  "updatedAt": "2026-11-14 17:20",
+  "release": {
+    "versionCode": 5,
+    "versionName": "1.5",
+    "apkDownloadUrl": "https:\/\/github.com\/shouvikb12\/Patra_keyboard\/releases\/download\/V1.3\/Patra-keyboard.apk",
+    "releaseNotes": "• Accurate Bilingual Translator (EN ⇄ বাং) with SOV grammar\n• English-pronounced Bangla in Avro (sms → এসএমএস, facebook → ফেসবুক)\n• Live OTA Dictionary, Translator & Artisan Theme Updates\n• Direct In-App APK Downloader & Updater",
+    "isMandatory": false,
+    "publishedAt": "2026-11-14 17:20",
+    "fileSizeMb": 14.800000190734863
+  },
+  "dictionary": {
+    "banglaWords": [
+      "পাত্রা",
+      "শৌভিক",
+      "কীবোর্ড",
+      "স্বয়ংক্রিয়",
+      "হালনাগাদ"
+    ],
+    "englishWords": [
+      "Patra",
+      "Shouvik",
+      "Artisan",
+      "Mechanical"
+    ],
+    "avroEnglishTerms": {
+      "sms": "এসএমএস",
+      "mms": "এমএমএস",
+      "otp": "ওটিপি",
+      "sim": "সিম",
+      "wifi": "ওয়াইফাই",
+      "apk": "এপিকে",
+      "ota": "ওটিএ",
+      "update": "আপডেট",
+      "github": "গিটহাব",
+      "admin": "অ্যাডমিন"
+    }
+  },
+  "translator": {
+    "enToBn": {
+      "i am talking to you": "আমি তোমার সাথে কথা বলছি",
+      "new update is available": "নতুন আপডেট এসেছে",
+      "please update the app": "দয়া করে অ্যাপটি আপডেট করুন"
+    },
+    "bnToEn": {
+      "আমি তোমার সাথে কথা বলছি": "I am talking to you",
+      "নতুন আপডেট এসেছে": "New update is available",
+      "দয়া করে অ্যাপটি আপডেট করুন": "Please update the app"
+    }
+  },
+  "themes": []
+}
